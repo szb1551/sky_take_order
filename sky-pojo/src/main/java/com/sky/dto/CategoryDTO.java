@@ -7,16 +7,16 @@ import java.io.Serializable;
 @Data
 public class CategoryDTO implements Serializable {
 
-    //涓婚敭
+    //主键
     private Long id;
 
-    //绫诲瀷 1 鑿滃搧鍒嗙被 2 濂楅鍒嗙被
+    //类型 1 菜品分类 2 套餐分类
     private Integer type;
 
-    //鍒嗙被鍚嶇О
+    //分类名称
     private String name;
 
-    //鎺掑簭
+    //排序
     private Integer sort;
 
 }

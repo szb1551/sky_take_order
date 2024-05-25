@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * Cç«¯ç”¨æˆ·ç™»å½•
+ * C¶ËÓÃ»§µÇÂ¼
  */
 @Data
 public class UserLoginDTO implements Serializable {
