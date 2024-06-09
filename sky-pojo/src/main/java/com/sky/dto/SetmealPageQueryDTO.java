@@ -4,6 +4,8 @@ import lombok.Data;
 
 import java.io.Serializable;
 
+import com.sky.vo.SetmealVO;
+
 @Data
 public class SetmealPageQueryDTO implements Serializable {
 
