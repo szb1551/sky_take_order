@@ -63,3 +63,7 @@ sky:
     weChatPayCertFilePath: ${sky.wechat.weChatPayCertFilePath}
     notifyUrl: ${sky.wechat.notifyUrl}
     refundNotifyUrl: ${sky.wechat.refundNotifyUrl}
+  shop:
+    address: 北京市海淀区斯里兰卡海王星
+  baidu:
+    ak: UUUUUEEEEAAABBBBCCCC
